@@ -1,0 +1,6 @@
+@WebApiIdempotencia_HostAddress = http://localhost:5210
+
+GET {{WebApiIdempotencia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
